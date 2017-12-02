@@ -1,0 +1,25 @@
+{
+  "name": "boilr-boilr-doc",
+  "version": "1.0.0",
+  "description": "Boilr template to a document boilr template (so meta!).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-boilr-doc.git"
+  },
+  "keywords": [
+    "boilr",
+    "boilr-template",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-boilr-doc/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-boilr-doc#readme"
+}
