@@ -2,7 +2,6 @@
   "name": "boilr-boilr-doc",
   "version": "1.0.0",
   "description": "Boilr template to a document boilr template (so meta!).",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +13,10 @@
     "boilr",
     "boilr-template",
     "template",
-    "boilerplate"
+    "boilerplate",
+    "documentation",
+    "verbose",
+    "verb"
   ],
   "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
   "license": "MIT",
