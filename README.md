@@ -5,10 +5,30 @@
 ---
 
 ## Purpose
-
 Template to document [boilr](https://github.com/tmrts/boilr) templates.
 
-## Author
+Creates the following files:
+
+```
+.
+├── Makefile
+└── docs
+    ├── author.md
+    ├── boilr-installation.md
+    ├── boilr-purpose.md
+    ├── boilr-usage.md
+    ├── contributing.md
+    └── related.md
+```
+
+## About
+
+<!-- ### Related projects -->
+<!-- Some related projects:
+
+  -->
+
+### Author
 **Stefan Walther**
 
 * [twitter](http://twitter.com/waltherstefan)  
@@ -16,7 +36,7 @@ Template to document [boilr](https://github.com/tmrts/boilr) templates.
 * [LinkedIn](https://www.linkedin.com/in/stefanwalther/) 
 * [qliksite.io](http://qliksite.io)
 
-## License
+### License
 MIT
 
 ***
