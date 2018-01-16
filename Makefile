@@ -9,6 +9,6 @@ gen-readme:					## Generate README.md (using docker-verb)
 	docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
 .PHONY: gen-readme
 
-reg:								## Register the current template
+reg:								## Register the current template locally
 	boilr template save $(PWD) boilr-doc -f
 .PHONY: reg

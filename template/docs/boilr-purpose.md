@@ -1,3 +1,3 @@
-... Add the purpose of your template here ...
+{{Description}}
 
 {%= docs("boilr-output-wrapper") %}
