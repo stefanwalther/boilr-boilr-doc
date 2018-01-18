@@ -9,7 +9,7 @@ gen-readme: gen-output					## Generate README.md (using docker-verb)
 	docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
 .PHONY: gen-readme
 
-gen-output:         						## Generate the sample output
+gen-output: reg      						## Generate the sample output
 	mkdir -p ./sample ; \
 	cd ./sample; \
 	boilr template use {{TemplateTag}} .; \
