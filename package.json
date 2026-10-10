@@ -14,9 +14,7 @@
     "boilr-template",
     "template",
     "boilerplate",
-    "documentation",
-    "verbose",
-    "verb"
+    "documentation"
   ],
   "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
   "license": "MIT",
